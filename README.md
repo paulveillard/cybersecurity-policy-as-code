@@ -1,5 +1,7 @@
 # Secure Policy-As-Code 
-## Contents
+
+
+## Table of Contents
 
 - [Blogs](#blogs)
   - [Getting Started](#getting-started)
