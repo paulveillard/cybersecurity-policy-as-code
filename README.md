@@ -85,7 +85,7 @@ An ongoing & curated collection of awesome software best practices and remediati
 
 - [Using Terrascan with Azure DevOps](https://lgulliver.github.io/terrascan-in-azure-devops/)
 
-## Videos
+## `Videos`
 
 ### Getting Started
 
@@ -165,7 +165,7 @@ An ongoing & curated collection of awesome software best practices and remediati
 
 - [Deprek8ion](https://github.com/swade1987/deprek8ion) - A set of rego policies to monitor Kubernetes APIs deprecations
 
-## Sponsor
+## `Sponsor`
 
 ![Practical DevSecOps](images/practical-devsecops-logo.png)
 
